@@ -1,5 +1,6 @@
 {
   "name": "provider",
+  "version": "1.0.0",
   "dependencies": {
     "@unlock-protocol/networks": "0.0.15",
     "@unlock-protocol/paywall": "0.6.1",
